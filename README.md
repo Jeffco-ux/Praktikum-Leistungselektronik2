@@ -1,7 +1,10 @@
-# Praktikum-Leistungselektronik2
+# Praktikum-Leistungselektronik
 akademisches Praktikum- Einphasenbrückenschaltung als Gleich- und Wechselrichter/ Elektrotechnik / Labor
+Hochschule : Technische Hochschule Georg Agricola
+Wissenschaftsbereich : Elektrotechnik (BET-Energietechnik)
+Team : 2 Studenten
 
-    Versuchsziele:
+    Ziele:
 
 Verstehen von Gleichrichter- und Wechselrichterbetrieb in einer Schaltung
 Kennenlernen der ungesteuerten Einphasenbrückenschaltung
